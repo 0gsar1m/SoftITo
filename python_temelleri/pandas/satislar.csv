@@ -1,0 +1,11 @@
+siparis_kodu,musteri,sehir,kategori,urun,adet,birim_fiyat,indirim_uygulandi,toplam_tutar
+ORD-101,Baran,İstanbul,Elektronik,Mekanik Klavye,1,2400.0,True,2400.0
+ORD-102,Ceylin,Ankara,Giyim,Kot Ceket,2,1150.0,False,2300.0
+ORD-103,Emre,İzmir,Elektronik,Monitör,1,7800.0,True,7800.0
+ORD-104,Fulya,İstanbul,Ev & Yaşam,Kahve Makinesi,1,4200.0,False,4200.0
+ORD-105,Gökhan,Bursa,Giyim,Sneaker,1,3100.0,True,3100.0
+ORD-106,Merve,Antalya,Elektronik,Kablosuz Kulaklık,3,1250.0,False,3750.0
+ORD-107,Kerem,İstanbul,Giyim,Sweatshirt,2,850.0,True,1700.0
+ORD-108,Selin,Ankara,Ev & Yaşam,Hava Temizleyici,1,5600.0,False,5600.0
+ORD-109,Burak,İzmir,Elektronik,Gaming Mouse,2,950.0,False,1900.0
+ORD-110,Zeynep,Bursa,Giyim,Sırt Çantası,1,1400.0,True,1400.0
